@@ -1,0 +1,20 @@
+TEST CASE 2 OUTPUT
+
+
+is
+mchine
+becomes
+odious
+makes
+pasively
+got
+bodies
+gears
+wheels
+levers
+got
+got
+peple
+are
+prevendet
+There are 16 unknown words.

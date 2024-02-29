@@ -1,0 +1,7 @@
+TEST CASE 1 OUTPUT
+
+
+hello
+twwo
+for
+There are 3 unknown words.
